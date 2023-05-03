@@ -2,6 +2,8 @@ This is an testing example to data science with python, matplotlib.pyplot, panda
 
 Example data used is in WorkPlaceSatisfactionSurveyData.xlsx
 
+Main file for notebook is Workplacesurvey.ipynb
+
 
 ![Alt text](./Kuvat/satisfaction%20to%20salary%20by%20edu.png "Sample1")
 
